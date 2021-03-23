@@ -26,4 +26,4 @@ setInterval(() => {
         a = res
  console.log(a);
     })
-}, 3600);
+}, 3600000);
