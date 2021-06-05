@@ -1,2 +1,2 @@
 # get_ip
-[![wenmoux's github stats](https://github-readme-stats.vercel.app/api?username=wenmoux&theme=onedark)](https://github.com/Wenmoux/wenmoux)
+[![bigfishgo's github stats](https://github-readme-stats.vercel.app/api?username=bigfishgo&theme=onedark)](https://github.com/bigfishgo/get_ip)
