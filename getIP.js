@@ -39,4 +39,4 @@ setInterval(() => {
         ip = res
  console.log(ip);
     })
-}, 1000);
+}, 3600000);
